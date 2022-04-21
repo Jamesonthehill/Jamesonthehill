@@ -1,9 +1,11 @@
-<link href="https://raw.githubusercontent.com/buppagi/webfonts/master/css/NanumBarunGothic.min.css" rel="stylesheet" type="text/css" />
+<link href="https://raw.githubusercontent.com/buppagi/webfonts/master/css/휴먼모음T.min.css" rel="stylesheet" type="text/css" />
 <h1 style="font-size: 30px">Jamesonthehill</h1>
 
-<div style="font-family: 고딕체;">
-<img src="https://img.shields.io/badge/-xshell-important?style=flat-square&logo=xshell&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-tomcat-important?style=flat-square&logo=tomcat&logoColor=white"/></a>
+<div align: center;">
+<!-- <img src="https://img.shields.io/badge/-xshell-important?style=flat-square&logo=xshell&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-tomcat-important?style=flat-square&logo=tomcat&logoColor=white"/></a> -->
+  
+ 
 <img src="https://img.shields.io/badge/-Css-informational?style=flat-square&logo=CSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Github-lightgrey?style=flat-square&logo=GIT&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Html-red?style=flat-square&logo=Spring&logoColor=white"/></a>
