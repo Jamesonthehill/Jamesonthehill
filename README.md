@@ -1,4 +1,4 @@
-<img src="C:/Users/james/Desktop/Desktop/github.png"/></a>
+<img src="https://user-images.githubusercontent.com/96867850/164494490-d0fa5065-67ec-4e5c-ba6a-1e1d0e0e1a81.png"/></a>
 
 <div align="center">
 <h1><strong>GEONWOO LEE</Strong></h1>
