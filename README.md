@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/96867850/164494490-d0fa5065-67ec-4e5c-ba6a-1e1d0e0e1a81.png"/></a>
+<img src="https://user-images.githubusercontent.com/96867850/164498625-250cff85-ada6-4d43-bb4e-5d3814b8146f.png"/></a>
 
 <div align="center">
 <h1><strong>GEONWOO LEE</Strong></h1>
