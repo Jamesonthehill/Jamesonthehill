@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/96867850/164498625-250cff85-ada6-4d43-bb4e-5d3814b8146f.png"/></a>
 
 <div align="center">
-<h1><strong>GEONWOO LEE</Strong></h1>
+
 
  <img src="https://img.shields.io/badge/-dlrjsdn53@naver.com-brightgreen?style=flat-square&logo=naver&logoColor=white"/></a>
    
