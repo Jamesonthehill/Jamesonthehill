@@ -1,16 +1,19 @@
-
-<link href="https://raw.githubusercontent.com/buppagi/webfonts/master/css/휴먼모음T.min.css" rel="stylesheet" type="text/css" />
-
-<div align="center">
-<p font-size="30px">Jamesonthehill<p>
+<img src="C:/Users/james/Desktop/Desktop/github.png"/></a>
 
 <div align="center">
+<h1><strong>GEONWOO LEE</Strong></h1>
+
+ <img src="https://img.shields.io/badge/-dlrjsdn53@naver.com-brightgreen?style=flat-square&logo=naver&logoColor=white"/></a>
+   
+   
+   <br><br> 
+ <strong> ⚔My Weapons⚔ <strong> 
 <!-- <img src="https://img.shields.io/badge/-xshell-important?style=flat-square&logo=xshell&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-tomcat-important?style=flat-square&logo=tomcat&logoColor=white"/></a> -->
   
 <img src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-CSS-orange?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-GITHUB-black?style=flat-square&logo=GIT&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Jquery-blueblack?style=flat-square&logo=Jquery&logoColor=white"/></a>
 <br>
