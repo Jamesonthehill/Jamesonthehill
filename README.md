@@ -8,6 +8,8 @@
    
    <br><br> 
  <strong> ⚔My Weapons⚔ <strong> 
+ <br><br>
+📌These are my main weapons to bring to the battlefield.
 <!-- <img src="https://img.shields.io/badge/-xshell-important?style=flat-square&logo=xshell&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-tomcat-important?style=flat-square&logo=tomcat&logoColor=white"/></a> -->
   
