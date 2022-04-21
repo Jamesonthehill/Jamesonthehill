@@ -43,8 +43,10 @@
 💌 Contact <br>
  <img src="https://img.shields.io/badge/-dlrjsdn53@naver.com-brightgreen?style=flat-square&logo=naver&logoColor=white"/></a>
    
-
-
+<br><br>
+👨‍💻 Velog
+<br><br>
+ <img src="https://img.shields.io/badge/-chocoboy.tistory.com-black?style=flat-square&logo=kakao&logoColor=white"/></a>
 
 <br><br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamesonthehill&show_icons=true&theme=radical)
